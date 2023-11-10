@@ -1,3 +1,6 @@
 This is feature2
 
-This is bug please fix it  
+This is bug please fix it
+
+
+Bug is fixed  
