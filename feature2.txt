@@ -3,12 +3,11 @@ This is feature2
 This is bug please fix it
 
 
-Bug is fixed
+Bug is fixed 
 
 gudbad feature added
 
-
 Good work
 
-
 Nice work    
+
